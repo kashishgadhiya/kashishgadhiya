@@ -13,13 +13,10 @@
 ⚡ Fun fact: I love connecting with different people. \
 😄 Pronouns: She/Her.
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+<br>
 
-  </ul>
-</div>
+## Technologies That I Know👨🏻‍💻
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,java,py,html,css,js,react,tailwind,bootstrap,mysql&perline=14" />
@@ -33,7 +30,7 @@
   </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/kashishgadhiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
 </p>
