@@ -40,9 +40,10 @@
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" />
 	</a>
 </p>
-# 💳 GitHub Profile Summary Card
+## 💳 GitHub Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kashishgadhiya&theme=chartreuse_dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kashishgadhiya&theme=github_dark"/>
+
 </p>
   
 ## 📟 GitHub Stats
@@ -62,10 +63,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thisisdishang&theme=dark&border_radius=15&custom_title=Most-Used-Languages" />-->
 </p>
 
-## 📈 Activity Graph
-<p align="center">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=kashishgadhiya&theme=github-compact"/>
-</p>
 
 ## 🏆 GitHub Trophies
 [![](https://github-profile-trophy.vercel.app/?username=kashishgadhiya&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=9)](https://github-profile-trophy.vercel.app/?username=kashishgadhiya&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=9)
