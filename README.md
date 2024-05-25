@@ -40,23 +40,23 @@
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" />
 	</a>
 </p>
-# 💳 GitHub Profile Summary Card:
+<!--# 💳 GitHub Profile Summary Card:
 
-<p align="center">
+<!--<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kashishgadhiya&theme=github_dark"/>
 
-</p>
+</p> 
   
-<!--<p align="center">
+<p align="center">
   <img width="46%" src="https://github-readme-stats.vercel.app/api?username=kashishgadhiya&show_icons=true&theme=midnight-purple" />&nbsp;
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kashishgadhiya&theme=chartreuse-dark" />
 </p>-->
-# 📊 GitHub Stats:
-<p align="center">
+<!--# 📊 GitHub Stats:
+<!--<p align="center">
 ![](https://github-readme-stats.vercel.app/api?username=kashishgadhiya&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kashishgadhiya&theme=vue-dark&hide_border=true)<br/>
 </p>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kashishgadhiya&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kashishgadhiya&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact) -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kashishgadhiya&theme=radical&no-frame=true&no-bg=false&margin-w=4)
