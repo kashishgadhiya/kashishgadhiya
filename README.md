@@ -22,14 +22,14 @@
 ## Technologies that i know
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,react,tailwind,bootstrap,mysql&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap,mysql,java,python,nextjs,nodejs,express&perline=14" />
   </a>
 </p>
 
 ## Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=7&i=git,github,anaconda,vscode,pycharm" />
+    <img src="https://skillicons.dev/icons?perline=7&i=git,github,anaconda,vscode,pycharm,netlify" />
   </a>
 </p>
 
