@@ -40,13 +40,13 @@
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" />
 	</a>
 </p>
- 💳 GitHub Profile Summary Card:
+<!-- 💳 GitHub Profile Summary Card:
 
-<p align="center">
+<!--<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kashishgadhiya&theme=github_dark"/>
 
-</p> 
-  
+</p> -->
+  <!---
 <p align="center">
   <img width="46%" src="https://github-readme-stats.vercel.app/api?username=kashishgadhiya&show_icons=true&theme=midnight-purple" />&nbsp;
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kashishgadhiya&theme=chartreuse-dark" />
@@ -60,7 +60,7 @@
 ## 🏆 GitHub Trophies
 (https://github-profile-trophy.vercel.app/?username=kashishgadhiya&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-(https://visitcount.itsvg.in/api?id=kashishgadhiya&icon=5&color=0)](https://visitcount.itsvg.in)
+(https://visitcount.itsvg.in/api?id=kashishgadhiya&icon=5&color=0)](https://visitcount.itsvg.in)-->
   
 
 
