@@ -60,7 +60,7 @@
 ## 🏆 GitHub Trophies
 (https://github-profile-trophy.vercel.app/?username=kashishgadhiya&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-(https://visitcount.itsvg.in/api?id=kashishgadhiya&icon=5&color=0)](https://visitcount.itsvg.in)-->
+<!--(https://visitcount.itsvg.in/api?id=kashishgadhiya&icon=5&color=0)](https://visitcount.itsvg.in)-->
   
 
 
