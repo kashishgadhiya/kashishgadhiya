@@ -41,8 +41,29 @@
 	</a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kashishgadhiya&label=Profile%20views&color=0e75b6&style=flat" alt="kashishgadhiya" /> </p>
-<!-- 💳 GitHub Profile Summary Card:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kashishgadhiya&label=Profile%20views&color=0e75b6&style=flat" alt="kashishgadhiya" /> </p> 
+  
+## 💳 GitHub Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisisdishang&theme=chartreuse_dark"/>
+</p>
+  
+## 📟 GitHub Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thisisdishang&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thisisdishang&theme=github_dark"/>
+</p>
+  
+<p align="center">
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=thisisdishang&show_icons=true&theme=midnight-purple" />&nbsp;
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=thisisdishang&theme=chartreuse-dark" />
+</p>
+  
+<p align="center">
+  <img width="46%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=thisisdishang&layout=donut&hide=roff,MATLAB&langs_count=10&theme=dark&custom_title=Top%20languages>
+  <!--<br/><br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thisisdishang&theme=dark&border_radius=15&custom_title=Most-Used-Languages" />-->
+</p>
 
 <!--<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kashishgadhiya&theme=github_dark"/>
