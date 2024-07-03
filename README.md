@@ -69,6 +69,8 @@
 
 
 ## 🏆 GitHub Trophies
+<p align="center">
 [![](https://github-profile-trophy.vercel.app/?username=kashishgadhiya&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=9)](https://github-profile-trophy.vercel.app/?username=kashishgadhiya&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=9)
+</p>
   
 
