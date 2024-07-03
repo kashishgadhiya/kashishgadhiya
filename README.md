@@ -59,11 +59,11 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kashishgadhiya&theme=chartreuse-dark" />
 </p>
   
-<p align="center">
+<!--<p align="center">
   <img width="46%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=kashishgadhiya&layout=donut&hide=roff,MATLAB&langs_count=10&theme=dark&custom_title=Top%20languages>
-  <!--<br/><br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thisisdishang&theme=dark&border_radius=15&custom_title=Most-Used-Languages" />-->
-</p>
+  <br/><br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thisisdishang&theme=dark&border_radius=15&custom_title=Most-Used-Languages" />
+</p>-->
 
 
 
