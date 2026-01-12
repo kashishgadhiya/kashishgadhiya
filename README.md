@@ -1,76 +1,91 @@
-<h1 align="center"><b>Hi , I'm Kashish Gadhiya </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  Hi, I'm Kashish Gadhiya 👋
+</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-	  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=white&size=30&center=true&vCenter=true&width=600&height=100&lines=Nice+to+meet+you;Active+Learner;Love+to+learn+new+technologies....">
+  <b>Full-Stack Developer | Backend-Focused | AI-Driven Systems Explorer</b>
+</p>
+
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+Focused+Engineer;Building+RAG+%26+LLM-powered+Applications;Exploring+LangChain+and+Vector+Databases;Learning+Cloud+%26+Scalable+Systems">
   </a>
 </p>
 
-<!---<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center">
-	<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 100px></picture>
-</p>-->
+---
 
-#### About me:
-- 💡 I like to explore new technologies and develop software solutions and quick hacks.
-- 🎓 I am currently pursuing  MCA degree from MSU Baroda.
-- 🌱 I'm on track for learning more about Web Development.
-- 💬 Feel free to reach out to me for some interesting discussion.
-- ⚡ Fun fact: I love connecting with different people.
-- 😄 Pronouns: she/her.
+##  About Me
 
-## Technologies that i know
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap,mysql,java&perline=14" />
-    <img src="https://skillicons.dev/icons?i=python,nextjs,nodejs,express,mongodb&perline=14" />
+I’m a **Full-Stack Developer** with a strong inclination toward **backend engineering** and **AI-powered systems**.
+
+-  Focused on building **scalable backend APIs** and full-stack applications
+-  Actively exploring **LangChain, RAG architectures, and LLM integrations**
+-  Strong interest in **Node.js backend design, databases, and system architecture**
+-  Currently learning **AWS & cloud-native backend concepts**
+-  Love discussing backend design, AI systems, and real-world engineering problems
+
+---
+
+##  Tech Stack
+
+###  Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
+
+- React Query (TanStack Query)
+- Component-driven UI
+- API-first frontend architecture
+
+---
+
+###  Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,python" />
+</p>
+
+- RESTful APIs
+- Authentication & Authorization
+- Database design & ORM workflows
+- Backend performance & scalability
+
+---
+
+###  AI / LLM & Advanced Backend
+- LangChain
+- RAG (Retrieval-Augmented Generation)
+- Vector Databases (Pinecone / FAISS / Chroma – exploring)
+- AI-powered backend workflows
+- Document processing & embeddings
+
+---
+
+###  Cloud & DevOps (Learning)
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker" />
+</p>
+
+---
+
+##  Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+##  Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/kashishgadhiya" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" />
   </a>
 </p>
 
-## Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=7&i=git,github,anaconda,vscode,pycharm,netlify" />
-  </a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=kashishgadhiya&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-## Connect with me:
-<p align="left">
-	<a href="https://www.linkedin.com/in/kashishgadhiya" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" />
-	</a>
-</p>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kashishgadhiya&label=Profile%20views&color=0e75b6&style=flat" alt="kashishgadhiya" /> </p> 
-  
-## 💳 GitHub Profile Summary Card
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kashishgadhiya&theme=chartreuse_dark"/>
-</p>
-  
-## 📟 GitHub Stats
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kashishgadhiya&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kashishgadhiya&theme=github_dark"/>
-</p>
-  
-<p align="center">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=kashishgadhiya&show_icons=true&theme=midnight-purple" />&nbsp;
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kashishgadhiya&theme=chartreuse-dark" />
-</p>
-  
-<!--<p align="center">
-  <img width="46%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=kashishgadhiya&layout=donut&hide=roff,MATLAB&langs_count=10&theme=dark&custom_title=Top%20languages>
-  <br/><br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thisisdishang&theme=dark&border_radius=15&custom_title=Most-Used-Languages" />
-</p>-->
-
-
-
-
-## 🏆 GitHub Trophies
-
-[![](https://github-profile-trophy.vercel.app/?username=kashishgadhiya&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=9)](https://github-profile-trophy.vercel.app/?username=kashishgadhiya&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=9)
-
-  
-
+⭐ *Always excited to build backend systems, explore AI-driven architectures, and grow as a full-stack engineer.*
