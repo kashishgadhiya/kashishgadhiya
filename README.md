@@ -1,91 +1,60 @@
-<h1 align="center">
-  Hi, I'm Kashish Gadhiya 👋
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00b4d8&height=120&section=header" width="100%"/>
+
+<h2 align="center">Kashish Gadhiya</h2>
 
 <p align="center">
-  <b>Full-Stack Developer | Backend-Focused | AI-Driven Systems Explorer</b>
+ Software Engineer — Full Stack & Generative AI
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+Focused+Engineer;Building+RAG+%26+LLM-powered+Applications;Exploring+LangChain+and+Vector+Databases;Learning+Cloud+%26+Scalable+Systems">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;Cloud+Infrastructure+%7C+AWS;Generative+AI+%7C+RAG+%7C+LangChain;Next.js+%7C+Node.js+%7C+TypeScript" />
+</p>
+
+---
+
+I'm a full-stack developer with a backend-first mindset — focused on API design,
+cloud infrastructure, and AI-integrated systems. I work best in 0 to 1 environments,
+owning products from schema design to production deployment without handing off.
+
+Currently building at Pardy Panda Studios as the sole engineer across three production
+systems — covering backend APIs, admin portals, client-facing UI, S3 data pipelines,
+and AWS infrastructure.
+
+---
+
+### What I Work On
+
+- Designing and building production REST APIs with Node.js and TypeScript
+- Architecting payment systems using Stripe Connect — commission engines,
+  hold logic, webhook handling, and idempotency-protected transfers
+- Building Next.js applications with React Server Components for
+  performance-critical, SEO-heavy marketplaces
+- Engineering LangChain and RAG pipelines with Pinecone for
+  context-aware document retrieval in production
+- Deploying and managing cloud infrastructure on AWS —
+  EC2, S3, RDS, IAM, and Docker
+
+---
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,express,mongodb,postgres,python,aws,docker,git,postman" />
+</p>
+
+`TanStack Query` &nbsp;·&nbsp; `Stripe Connect` &nbsp;·&nbsp; `LangChain` &nbsp;·&nbsp;
+`Pinecone` &nbsp;·&nbsp; `Prisma` &nbsp;·&nbsp; `Zod` &nbsp;·&nbsp; `Radix UI`
+
+
+### Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/kashishgadhiya">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://kashish-gadhiya-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
----
-
-##  About Me
-
-I’m a **Full-Stack Developer** with a strong inclination toward **backend engineering** and **AI-powered systems**.
-
--  Focused on building **scalable backend APIs** and full-stack applications
--  Actively exploring **LangChain, RAG architectures, and LLM integrations**
--  Strong interest in **Node.js backend design, databases, and system architecture**
--  Currently learning **AWS & cloud-native backend concepts**
--  Love discussing backend design, AI systems, and real-world engineering problems
-
----
-
-##  Tech Stack
-
-###  Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</p>
-
-- React Query (TanStack Query)
-- Component-driven UI
-- API-first frontend architecture
-
----
-
-###  Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,python" />
-</p>
-
-- RESTful APIs
-- Authentication & Authorization
-- Database design & ORM workflows
-- Backend performance & scalability
-
----
-
-###  AI / LLM & Advanced Backend
-- LangChain
-- RAG (Retrieval-Augmented Generation)
-- Vector Databases (Pinecone / FAISS / Chroma – exploring)
-- AI-powered backend workflows
-- Document processing & embeddings
-
----
-
-###  Cloud & DevOps (Learning)
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker" />
-</p>
-
----
-
-##  Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
-
-##  Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/kashishgadhiya" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" />
-  </a>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=kashishgadhiya&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
-⭐ *Always excited to build backend systems, explore AI-driven architectures, and grow as a full-stack engineer.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0d1117&height=100&section=footer" width="100%"/>
