@@ -12,27 +12,7 @@
 
 ---
 
-I'm a full-stack developer with a backend-first mindset — focused on API design,
-cloud infrastructure, and AI-integrated systems. I work best in 0 to 1 environments,
-owning products from schema design to production deployment without handing off.
-
-Currently building at Pardy Panda Studios as the sole engineer across three production
-systems — covering backend APIs, admin portals, client-facing UI, S3 data pipelines,
-and AWS infrastructure.
-
----
-
-### What I Work On
-
-- Designing and building production REST APIs with Node.js and TypeScript
-- Architecting payment systems using Stripe Connect — commission engines,
-  hold logic, webhook handling, and idempotency-protected transfers
-- Building Next.js applications with React Server Components for
-  performance-critical, SEO-heavy marketplaces
-- Engineering LangChain and RAG pipelines with Pinecone for
-  context-aware document retrieval in production
-- Deploying and managing cloud infrastructure on AWS —
-  EC2, S3, RDS, IAM, and Docker
+I'm a full-stack developer with a backend-first mindset — focused on API design, cloud infrastructure, and AI-integrated systems. I own products from schema design to production deployment, without handing off.
 
 ---
 
@@ -42,8 +22,12 @@ and AWS infrastructure.
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,express,mongodb,postgres,python,aws,docker,git,postman" />
 </p>
 
-`TanStack Query` &nbsp;·&nbsp; `Stripe Connect` &nbsp;·&nbsp; `LangChain` &nbsp;·&nbsp;
-`Pinecone` &nbsp;·&nbsp; `Prisma` &nbsp;·&nbsp; `Zod` &nbsp;·&nbsp; `Radix UI`
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-D9042B?style=for-the-badge&logo=bull&logoColor=white)
 
 
 ### Connect
